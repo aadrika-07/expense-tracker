@@ -20,45 +20,45 @@ A Full Stack Expense Tracker built using React, Flask and SQLite.
 
 ### Dashboard (Dark Mode)
 
-![Dashboard Dark](screenshots/dashboard-dark.png)
+![Dashboard Dark](dashboard-dark.png.jpeg)
 
 ### Expenses (Light Mode)
 
-![Expenses Light](screenshots/expenses-light.png)
+![Expenses Light](expenses-light.png.jpeg)
 
 ### Expenses (Dark Mode)
 
-![Expenses Dark](screenshots/expenses-dark.png)
+![Expenses Dark](expenses-dark.png.jpeg)
 
 ### Budget Tracker
 
-![Budget Light](screenshots/budget-light.png)
+![Budget Light](budget-light.png.jpeg)
 
-![Budget Dark](screenshots/budget-dark.png)
+![Budget Dark](budget-dark.png.jpeg)
 
 ### Analytics
 
-![Analytics Light](screenshots/analytics-light.png)
+![Analytics Light](analytics-light.png.jpeg)
 
-![Analytics Dark](screenshots/analytics-dark.png)
+![Analytics Dark](analytics-dark.png.jpeg)
 
 ### AI Insights
 
-![AI Insights Light](screenshots/ai-insights-light.png)
+![AI Insights Light](ai-insights-light.png.jpeg)
 
-![AI Insights Dark](screenshots/ai-insights-dark.png)
+![AI Insights Dark](ai-insights-dark.png.jpeg)
 
 ### AI Assistant
 
-![Assistant Light](screenshots/assistant-light.png)
+![Assistant Light](assistant-light.png.jpeg)
 
-![Assistant Dark](screenshots/assistant-dark.png)
+![Assistant Dark](assistant-dark.png.jpeg)
 
 ### Profile
 
-![Profile Light](screenshots/profile-light.png)
+![Profile Light](profile-light.png.jpeg)
 
-![Profile Dark](screenshots/profile-dark.png)
+![Profile Dark](profile-dark.png.jpeg)
 
 
 ## Tech Stack
