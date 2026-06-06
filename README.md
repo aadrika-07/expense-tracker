@@ -16,7 +16,7 @@ A Full Stack Expense Tracker built using React, Flask and SQLite.
 
 ### Dashboard (Light Mode)
 
-![Dashboard Light](screenshots/dashboard-light.png)
+![Dashboard Light](dashboard-light.png.jpeg)
 
 ### Dashboard (Dark Mode)
 
