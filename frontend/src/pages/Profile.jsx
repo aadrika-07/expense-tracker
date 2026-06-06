@@ -96,12 +96,12 @@ function Profile() {
                 </div>
             </div>
 
-          <p className="text-lg">
+          <p className="text-lg dark:text-white">
             <strong>Username:</strong>{" "}
             {user?.username}
           </p>
 
-          <p className="break-all">
+          <p className="break-all dark:text-white">
             <strong>Email:</strong>{" "}
             {user?.email}
           </p>
@@ -112,12 +112,12 @@ function Profile() {
 
       <div className="grid md:grid-cols-2 gap-6 mt-6">
 
-        <div className="bg-white dark:bg-gray-500 p-6 rounded-xl shadow-md">
+        <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-md">
             <h2 className="text-xl font-semibold dark:text-white">
             Total Expenses
             </h2>
 
-            <p className="text-3xl font-bold mt-2">
+            <p className="text-3xl font-bold dark:text-white mt-2">
             ₹{totalExpense}
             </p>
         </div>
@@ -127,7 +127,7 @@ function Profile() {
             Transactions
             </h2>
 
-            <p className="text-3xl font-bold mt-2">
+            <p className="text-3xl font-bold dark:text-white mt-2">
             {totalTransactions}
             </p>
         </div>
@@ -141,7 +141,7 @@ function Profile() {
             Highest Expense
             </h2>
 
-            <p className="text-3xl font-bold mt-2">
+            <p className="text-3xl font-bold dark:text-white mt-2">
             ₹{highestExpense}
             </p>
         </div>
@@ -151,7 +151,7 @@ function Profile() {
             Most Used Category
             </h2>
 
-            <p className="text-3xl font-bold mt-2">
+            <p className="text-3xl font-bold dark:text-white mt-2">
             {mostUsedCategory}
             </p>
         </div>
@@ -165,7 +165,7 @@ function Profile() {
             Average Expense
             </h2>
 
-            <p className="text-3xl font-bold mt-2">
+            <p className="text-3xl font-bold dark:text-white mt-2">
             ₹{averageExpense}
             </p>
         </div>
@@ -175,7 +175,7 @@ function Profile() {
             Budget Remaining
             </h2>
 
-            <p className="text-3xl font-bold mt-2">
+            <p className="text-3xl font-bold dark:text-white mt-2">
             ₹{budgetRemaining}
             </p>
         </div>
